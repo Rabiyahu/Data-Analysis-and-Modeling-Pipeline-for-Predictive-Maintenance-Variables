@@ -1,1 +1,2 @@
 # Data-Analysis-and-Modeling-Pipeline-for-Predictive-Maintenance-Variables
+This project involves data preprocessing, regression, and classification for predictive maintenance variables. It manages missing values, outliers, and applies entropy. Data is split 80/20 for training/testing, normalized, and features are selected using forward and backward selection with multilinear and logistic regression.
